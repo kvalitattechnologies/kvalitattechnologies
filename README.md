@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kvalitattechnologies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ : Instructor-Led Certified Online and Offline IT Training Company in India | Kvalitat Technologies
+- 📫 802, Signature 1 Tower, Above Concept Jeep Showroom, SG Highway, Makarba, Ahmedabad-380051
 
 <!---
-kvalitattechnologies/kvalitattechnologies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ Kvalitat Technologies is an IT training company in the field of Software Quality Assurance and Software Testing based in Ahmedabad with over 1000 student enrolments and 50 corporate partnerships.
 --->
